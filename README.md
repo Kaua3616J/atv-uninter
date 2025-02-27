@@ -1,1 +1,1 @@
-[Acesse o site aqui](https://github.com/Kaua3616J/atv-uninter.git)
+[Acesse o site aqui](https://https://kaua3616j.github.io/atv-uninter/)
